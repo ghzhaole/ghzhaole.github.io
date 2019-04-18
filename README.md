@@ -6,4 +6,4 @@
 
 例如：针对 字符串 `"abcde"` 生成 `"abc", "bcd", "cde"`类似的滑窗序列
 
-参考：**`[aLine/sliding windows.py](aLine/sliding windows.py)`**
+参考：**`aLine/sliding windows.py`**
