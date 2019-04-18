@@ -6,7 +6,7 @@ Created on Sun Apr 14 21:50:06 2019
 """
 
 
-i, j = 3, 3
+i, j = 2, 1
 
 
 s = 'abcdefghijklmnopqrstuvwxyz'
